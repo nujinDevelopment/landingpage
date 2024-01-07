@@ -16,16 +16,6 @@ Nuxtwind Daisy is a starter template for Nuxt.js 3 + Tailwind CSS + Daisy UI wit
 
 Nope. No installation needed.
 
-## Fork
-
-Fork this repository to your own GitHub account.
-
-<img width="800" src="fork.png">
-
-Make it yours. Rename it. Change the description. Hit Create fork.
-
-<img width="800" src="make-it-yours.png">
-
 ## Make changes
 
 I will assume that you already know the basic of nuxt.js. If not, you can check out their [documentation](https://nuxt.com/docs/getting-started/introduction).
@@ -56,23 +46,3 @@ $ nuxt build
 $ nuxt generate
 ```
 
-## Deploy
-
-You can deploy your work in any static hosting service.
-
-Here's a list of static hosting services that you can use:
-
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-- [Firebase](https://firebase.google.com/)
-- [Surge](https://surge.sh/)
-- [Render](https://render.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
-- [AWS Amplify](https://aws.amazon.com/amplify/)
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-- [Begin](https://begin.com/)
-- [Fast.io](https://fast.io/)
-- [Fly](https://fly.io/)
-- [Deta](https://www.deta.sh/)
-- [Aerobatic](https://www.aerobatic.com/)
